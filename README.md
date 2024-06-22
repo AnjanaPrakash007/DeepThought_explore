@@ -1,2 +1,3 @@
-# DeepThought_explore
+# DeepThought_explorathon
+
 Exploration
