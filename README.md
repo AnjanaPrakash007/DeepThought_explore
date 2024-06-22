@@ -1,3 +1,1 @@
-# DeepThought_explorathon
-
-Exploration
+# todo-beginner
